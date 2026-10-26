@@ -1,0 +1,4 @@
+0 sana
+1 superficial
+2 peligrosa
+3 no_aplica

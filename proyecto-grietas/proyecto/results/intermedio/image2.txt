@@ -1,0 +1,7 @@
+Imagen: /mnt/user-data/uploads/WhatsApp_Image_2026-10-24_at_12_19_37_PM.jpeg
+Parametros: Canny 70/180 | Hough umbral=40, largo minimo=90px, hueco maximo=25px
+Pixeles de borde (Canny): 10028 (1.7% de la imagen)
+Segmentos Hough detectados: 47
+Largo total de segmentos: 6286px | mas largo: 206px
+Angulo medio ponderado por largo: 79.8 grados (0=horizontal, 90=vertical)
+Orientacion (por longitud acumulada): diagonal 44%, horizontal 8%, vertical 48%

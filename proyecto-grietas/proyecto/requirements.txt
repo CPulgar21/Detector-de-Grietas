@@ -1,0 +1,8 @@
+# Versiones con las que probe los scripts (Python 3.12). Fijalas tambien en tu despliegue.
+tensorflow-cpu==2.21.0
+tf-keras==2.21.0
+gradio==6.30.0
+pillow==12.1.1
+numpy==2.4.4
+opencv-python-headless==4.13.0.92
+matplotlib==3.10.8
