@@ -1,0 +1,21 @@
+Modo de preprocesamiento: fit
+Imagenes evaluadas: 809
+Accuracy global: 92.2%
+
+clase             n   recall  precision
+sana            209    98.6%      79.2%
+superficial     200    73.5%      96.7%
+peligrosa       200    98.0%      98.0%
+no_aplica       200    98.5%     100.0%
+
+PELIGROSAS subestimadas: 4 de 200 (como sana: 1, como superficial: 3)
+
+Umbral asimetrico: se marca 'peligrosa' si P(peligrosa) >= umbral
+ umbral  recall peligrosa  falsas alarmas    % de no-peligrosas alarmadas
+   0.50             98.0%               4                            0.7%
+   0.40             98.0%               5                            0.8%
+   0.30             99.0%               5                            0.8%
+   0.25             99.0%               6                            1.0%
+   0.20             99.0%               7                            1.1%
+   0.15             99.0%               7                            1.1%
+   0.10             99.5%              10                            1.6%
